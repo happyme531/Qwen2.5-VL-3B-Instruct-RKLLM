@@ -1,10 +1,10 @@
 ⚠️ Mirror notice / 镜像说明
 
-This repository is a read-only mirror of my Hugging Face project `happyme531/Qwen2.5-VL-3B-Instruct-RKLLM`.
+This repository is a read-only mirror of the Hugging Face project `happyme531/Qwen2.5-VL-3B-Instruct-RKLLM`.
 Please download model weights, file updates, or raise pull requests directly at:
 https://huggingface.co/happyme531/Qwen2.5-VL-3B-Instruct-RKLLM
 
-本仓库为我的 Hugging Face 项目 `happyme531/Qwen2.5-VL-3B-Instruct-RKLLM` 的只读镜像。
+本仓库为 Hugging Face 项目 `happyme531/Qwen2.5-VL-3B-Instruct-RKLLM` 的只读镜像。
 如需下载模型权重、查看最新文件或提交 Pull Request，请访问：
 https://huggingface.co/happyme531/Qwen2.5-VL-3B-Instruct-RKLLM
 
